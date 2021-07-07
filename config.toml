@@ -1,6 +1,6 @@
-baseURL = "https://resepmasakanayam.vercel.app/"
+baseURL = "https://idemasakanayam.vercel.app/"
 languageCode = "en-us"
-title = "RESEP MASAKAN AYAM"
+title = "IDE MASAKAN AYAM"
 theme = "grid"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "grid"
 [params]
   description = "Menyajikan Ribuan Resep Ternikmat dan Terlezat Bagi Pecinta Masakan Ayam"
   topdescription = "Menyajikan Ribuan Resep Ternikmat dan Terlezat Bagi Pecinta Masakan Ayam"
-  toptitle = "RESEP MASAKAN AYAM"
+  toptitle = "IDE MASAKAN AYAM"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "grid"
 
 [author]
     name = "Clara Bernadette"
-    homepage = "https://resepmasakanayam.vercel.app/"
+    homepage = "https://idemasakanayam.vercel.app/"
     bio = "True Food Lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
